@@ -1,10 +1,3 @@
-# GOLDX — Explainable Cross-Contract Gold Intelligence
-
-> **Hack in Hills '26** | **Problem Statement 03: Commodity Derivatives Intelligence**  
-> **Team:** CodeHimalayan (`Anshika Yadav` — Full-Stack Analytics Lead, `Aniket Kaushik` — Data, Infrastructure and Deployment Lead)  
-> **Tagline:** *"From Raw Gold Data to Explainable Intelligence"*
-
----
 
 ## 1. Executive Summary & Problem Formulation
 
